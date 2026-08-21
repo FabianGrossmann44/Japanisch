@@ -1,0 +1,50 @@
+{
+  "episode": 2,
+  "title": "Episode 2",
+  "vocabulary": [
+    {
+      "japanese": "です",
+      "answers": ["sein", "ist"]
+    },
+    {
+      "japanese": "ではありません",
+      "answers": ["ist nicht", "bin nicht"]
+    },
+    {
+      "japanese": "か",
+      "answers": ["Fragepartikel"]
+    },
+    {
+      "japanese": "も",
+      "answers": ["auch"]
+    },
+    {
+      "japanese": "はい",
+      "answers": ["ja"]
+    },
+    {
+      "japanese": "いいえ",
+      "answers": ["nein"]
+    },
+    {
+      "japanese": "そうです",
+      "answers": ["das stimmt", "richtig", "bin ich"]
+    },
+    {
+      "japanese": "そうではありません",
+      "answers": ["das stimmt nicht", "nicht richtig", "bin ich nicht"]
+    },
+    {
+      "japanese": "がくせい",
+      "answers": ["Student", "Studentin"]
+    },
+    {
+      "japanese": "かいしゃいん",
+      "answers": ["Büroangestellter", "Büroangestellte"]
+    },
+    {
+      "japanese": "せんせい",
+      "answers": ["Lehrer", "Lehrerin"]
+    }
+  ]
+}

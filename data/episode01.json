@@ -1,0 +1,66 @@
+{
+  "episode": 1,
+  "title": "Episode 1",
+  "vocabulary": [
+    {
+      "japanese": "こんにちは",
+      "answers": ["hallo", "guten tag"]
+    },
+    {
+      "japanese": "ありがとう",
+      "answers": ["danke"]
+    },
+    {
+      "japanese": "はい",
+      "answers": ["ja"]
+    },
+    {
+      "japanese": "いいえ",
+      "answers": ["nein"]
+    },
+    {
+      "japanese": "おはようございます",
+      "answers": ["guten morgen"]
+    },
+    {
+      "japanese": "おはよう",
+      "answers": ["morgen", "guten morgen"]
+    },
+    {
+      "japanese": "こんばんは",
+      "answers": ["guten abend"]
+    },
+    {
+      "japanese": "ありがとうございます",
+      "answers": ["vielen dank", "danke sehr"]
+    },
+    {
+      "japanese": "さようなら",
+      "answers": ["auf wiedersehen", "auf wiederhören"]
+    },
+    {
+      "japanese": "ばいばい",
+      "answers": ["tschüss", "bye bye"]
+    },
+    {
+      "japanese": "はじめまして",
+      "answers": [
+        "freut mich",
+        "freut mich, dich kennenzulernen",
+        "schön, dich kennenzulernen"
+      ]
+    },
+    {
+      "japanese": "わたし",
+      "answers": ["ich", "mir", "mich"]
+    },
+    {
+      "japanese": "あなた",
+      "answers": ["du", "dich", "dir"]
+    },
+    {
+      "japanese": "じん",
+      "answers": ["Person", "Mensch"]
+    }
+  ]
+}

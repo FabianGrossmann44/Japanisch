@@ -1,0 +1,96 @@
+{
+  "episode": 3,
+  "title": "Episode 3",
+  "vocabulary": [
+    {
+      "japanese": "これ",
+      "answers": ["dies", "das hier"]
+    },
+    {
+      "japanese": "それ",
+      "answers": ["das", "das dort bei dir"]
+    },
+    {
+      "japanese": "あれ",
+      "answers": ["jenes", "das dort drüben"]
+    },
+    {
+      "japanese": "どれ",
+      "answers": ["welches", "welches davon"]
+    },
+    {
+      "japanese": "この",
+      "answers": ["dieser", "diese", "dieses"]
+    },
+    {
+      "japanese": "その",
+      "answers": [
+        "dieser",
+        "diese",
+        "dieses",
+        "der bei dir",
+        "die bei dir",
+        "das bei dir"
+      ]
+    },
+    {
+      "japanese": "あの",
+      "answers": [
+        "jener",
+        "jene",
+        "jenes",
+        "der dort drüben",
+        "die dort drüben",
+        "das dort drüben"
+      ]
+    },
+    {
+      "japanese": "どの",
+      "answers": ["welcher", "welche", "welches"]
+    },
+    {
+      "japanese": "の",
+      "answers": ["von", "Zugehörigkeit", "Besitz"]
+    },
+    {
+      "japanese": "わたしの",
+      "answers": ["mein", "meine", "meins"]
+    },
+    {
+      "japanese": "あなたの",
+      "answers": ["dein", "deine", "deins"]
+    },
+    {
+      "japanese": "ひと",
+      "answers": ["Person", "Mensch"]
+    },
+    {
+      "japanese": "ほん",
+      "answers": ["Buch"]
+    },
+    {
+      "japanese": "かばん",
+      "answers": ["Tasche"]
+    },
+    {
+      "japanese": "じしょ",
+      "answers": ["Wörterbuch"]
+    },
+    {
+      "japanese": "きょうかしょ",
+      "answers": ["Lehrbuch", "Schulbuch"]
+    },
+    {
+      "japanese": "ペン",
+      "answers": ["Stift", "Kugelschreiber"]
+    },
+    {
+      "japanese": "とけい",
+      "answers": ["Uhr", "Armbanduhr"]
+    },
+    {
+      "japanese": "かぎ",
+      "answers": ["Schlüssel"]
+    }
+  ]
+}

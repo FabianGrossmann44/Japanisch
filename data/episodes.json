@@ -1,0 +1,19 @@
+{
+  "episodes": [
+    {
+      "id": 1,
+      "title": "Episode 1",
+      "file": "episode01.json"
+    },
+    {
+      "id": 2,
+      "title": "Episode 2",
+      "file": "episode02.json"
+    },
+    {
+      "id": 3,
+      "title": "Episode 3",
+      "file": "episode03.json"
+    }
+  ]
+}
