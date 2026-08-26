@@ -1,0 +1,154 @@
+{
+  "episode": 6,
+  "title": "Expressions for time",
+  "vocabulary": [
+    {
+      "japanese": "じかん",
+      "answers": ["zeit"]
+    },
+    {
+      "japanese": "じ",
+      "answers": ["uhr", "zeitangabe für die stunde"]
+    },
+    {
+      "japanese": "いちじ",
+      "answers": ["1 uhr", "ein uhr"]
+    },
+    {
+      "japanese": "にじ",
+      "answers": ["2 uhr", "zwei uhr"]
+    },
+    {
+      "japanese": "さんじ",
+      "answers": ["3 uhr", "drei uhr"]
+    },
+    {
+      "japanese": "よじ",
+      "answers": ["4 uhr", "vier uhr"]
+    },
+    {
+      "japanese": "ごじ",
+      "answers": ["5 uhr", "fünf uhr"]
+    },
+    {
+      "japanese": "ろくじ",
+      "answers": ["6 uhr", "sechs uhr"]
+    },
+    {
+      "japanese": "しちじ",
+      "answers": ["7 uhr", "sieben uhr"]
+    },
+    {
+      "japanese": "はちじ",
+      "answers": ["8 uhr", "acht uhr"]
+    },
+    {
+      "japanese": "くじ",
+      "answers": ["9 uhr", "neun uhr"]
+    },
+    {
+      "japanese": "じゅうじ",
+      "answers": ["10 uhr", "zehn uhr"]
+    },
+    {
+      "japanese": "じゅういちじ",
+      "answers": ["11 uhr", "elf uhr"]
+    },
+    {
+      "japanese": "じゅうにじ",
+      "answers": ["12 uhr", "zwölf uhr"]
+    },
+    {
+      "japanese": "ふん",
+      "answers": ["minute"]
+    },
+    {
+      "japanese": "ぷん",
+      "answers": ["minute"]
+    },
+    {
+      "japanese": "いっぷん",
+      "answers": ["1 minute", "eine minute"]
+    },
+    {
+      "japanese": "にふん",
+      "answers": ["2 minuten", "zwei minuten"]
+    },
+    {
+      "japanese": "さんぷん",
+      "answers": ["3 minuten", "drei minuten"]
+    },
+    {
+      "japanese": "よんぷん",
+      "answers": ["4 minuten", "vier minuten"]
+    },
+    {
+      "japanese": "ごふん",
+      "answers": ["5 minuten", "fünf minuten"]
+    },
+    {
+      "japanese": "ろっぷん",
+      "answers": ["6 minuten", "sechs minuten"]
+    },
+    {
+      "japanese": "ななふん",
+      "answers": ["7 minuten", "sieben minuten"]
+    },
+    {
+      "japanese": "はっぷん",
+      "answers": ["8 minuten", "acht minuten"]
+    },
+    {
+      "japanese": "はちふん",
+      "answers": ["8 minuten", "acht minuten"]
+    },
+    {
+      "japanese": "きゅうふん",
+      "answers": ["9 minuten", "neun minuten"]
+    },
+    {
+      "japanese": "じゅっぷん",
+      "answers": ["10 minuten", "zehn minuten"]
+    },
+    {
+      "japanese": "じゅういっぷん",
+      "answers": ["11 minuten", "elf minuten"]
+    },
+    {
+      "japanese": "びょう",
+      "answers": ["sekunde"]
+    },
+    {
+      "japanese": "ごご",
+      "answers": ["nachmittag", "pm"]
+    },
+    {
+      "japanese": "ごぜん",
+      "answers": ["vormittag", "am"]
+    },
+    {
+      "japanese": "まえ",
+      "answers": ["vorher", "zuvor", "vor"]
+    },
+    {
+      "japanese": "はん",
+      "answers": ["halb", "eine halbe stunde"]
+    },
+    {
+      "japanese": "ごろ",
+      "answers": ["ungefähr", "etwa", "gegen (zeit)"]
+    },
+    {
+      "japanese": "あさ",
+      "answers": ["morgen", "vormittag"]
+    },
+    {
+      "japanese": "ひる",
+      "answers": ["mittag", "tagsüber"]
+    },
+    {
+      "japanese": "よる",
+      "answers": ["abend", "nacht"]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "episode": 4,
+  "title": "Pronouns for places (here, there, over there)",
+  "vocabulary": [
+    {
+      "japanese": "ここ",
+      "answers": ["hier"]
+    },
+    {
+      "japanese": "そこ",
+      "answers": ["dort", "da"]
+    },
+    {
+      "japanese": "あそこ",
+      "answers": ["dort drüben", "da drüben"]
+    },
+    {
+      "japanese": "どこ",
+      "answers": ["wo"]
+    },
+    {
+      "japanese": "こちら",
+      "answers": ["hier", "hier bei mir", "hier (höflich)"]
+    },
+    {
+      "japanese": "そちら",
+      "answers": ["dort", "da bei dir", "dort (höflich)"]
+    },
+    {
+      "japanese": "あちら",
+      "answers": ["dort drüben", "da drüben", "dort drüben (höflich)"]
+    },
+    {
+      "japanese": "どちら",
+      "answers": ["wo", "welcher ort", "wo (höflich)"]
+    },
+    {
+      "japanese": "きょうしつ",
+      "answers": ["klassenzimmer", "unterrichtsraum", "klassenraum"]
+    },
+    {
+      "japanese": "しょくどう",
+      "answers": ["speisesaal", "mensa", "essensraum"]
+    },
+    {
+      "japanese": "トイレ",
+      "answers": ["toilette", "wc"]
+    },
+    {
+      "japanese": "おてあらい",
+      "answers": ["toilette", "wc"]
+    },
+    {
+      "japanese": "うけつけ",
+      "answers": ["rezeption", "empfang", "informationsschalter", "anmeldung"]
+    },
+    {
+      "japanese": "じむしょ",
+      "answers": ["büro", "geschäftsstelle"]
+    },
+    {
+      "japanese": "いえ",
+      "answers": ["haus", "zuhause", "heim"]
+    },
+    {
+      "japanese": "うち",
+      "answers": ["zuhause", "haus", "daheim"]
+    },
+    {
+      "japanese": "へや",
+      "answers": ["zimmer", "raum"]
+    },
+    {
+      "japanese": "かいしゃ",
+      "answers": ["firma", "unternehmen", "arbeitsplatz"]
+    },
+    {
+      "japanese": "くに",
+      "answers": ["land", "staat", "heimatland"]
+    }
+  ]
+}
