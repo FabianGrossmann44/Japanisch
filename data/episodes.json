@@ -24,6 +24,11 @@
       "id": 6,
       "title": "Episode 6: Expression for Time",
       "file": "episode06.json"
+    },
+    {
+      "id": 7,
+      "title": "Episode 7: Verb present tense",
+      "file": "episode07.json"
     }
   ]
 }

@@ -1,0 +1,46 @@
+{
+  "episode": 7,
+  "title": "Verb Present tense",
+  "vocabulary": [
+    {
+      "japanese": "なんじ",
+      "answers": ["wie viel uhr", "welche uhrzeit"]
+    },
+    {
+      "japanese": "なんぷん",
+      "answers": ["wie viele minuten", "welche minute"]
+    },
+    {
+      "japanese": "いつ",
+      "answers": ["wann"]
+    },
+    {
+      "japanese": "ねます",
+      "answers": ["schlafen", "zu bett gehen"]
+    },
+    {
+      "japanese": "おきます",
+      "answers": ["aufwachen", "aufstehen"]
+    },
+    {
+      "japanese": "はたらきます",
+      "answers": ["arbeiten"]
+    },
+    {
+      "japanese": "やすみます",
+      "answers": ["sich ausruhen", "eine pause machen", "frei haben"]
+    },
+    {
+      "japanese": "べんきょうします",
+      "answers": ["lernen", "studieren"]
+    },
+    {
+      "japanese": "から",
+      "answers": ["von", "ab", "seit"]
+    },
+    {
+      "japanese": "まで",
+      "answers": ["bis", "bis zu"]
+    }
+  ]
+}
