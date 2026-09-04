@@ -1,0 +1,74 @@
+{
+  "episode": 8,
+  "title": "Verb Past tense",
+  "vocabulary": [
+    {
+      "japanese": "きょう",
+      "answers": ["heute"]
+    },
+    {
+      "japanese": "あした",
+      "answers": ["morgen"]
+    },
+    {
+      "japanese": "きのう",
+      "answers": ["gestern"]
+    },
+    {
+      "japanese": "こんばん",
+      "answers": ["heute abend", "heute nacht"]
+    },
+    {
+      "japanese": "きょうのよる",
+      "answers": ["heute abend", "heute nacht"]
+    },
+    {
+      "japanese": "けさ",
+      "answers": ["heute morgen", "heute früh"]
+    },
+    {
+      "japanese": "きょうのあさ",
+      "answers": ["heute morgen", "heute früh"]
+    },
+    {
+      "japanese": "たべました",
+      "answers": ["gegessen", "aß", "essen"]
+    },
+    {
+      "japanese": "かいました",
+      "answers": ["gekauft", "kaufte", "kaufen"]
+    },
+    {
+      "japanese": "のみました",
+      "answers": ["getrunken", "trank", "trinken"]
+    },
+    {
+      "japanese": "ききました",
+      "answers": ["gehört", "zugehört", "hörte", "zuhören"]
+    },
+    {
+      "japanese": "かきました",
+      "answers": ["geschrieben", "schrieb", "schreiben"]
+    },
+    {
+      "japanese": "みました",
+      "answers": ["gesehen", "angesehen", "sah", "sehen", "anschauen"]
+    },
+    {
+      "japanese": "しました",
+      "answers": ["gemacht", "tat", "machen", "tun"]
+    },
+    {
+      "japanese": "うんどうしました",
+      "answers": ["sport gemacht", "trainiert", "Sport treiben", "trainieren"]
+    },
+    {
+      "japanese": "はじめました",
+      "answers": ["angefangen", "begonnen", "anfangen", "beginnen"]
+    },
+    {
+      "japanese": "おわりました",
+      "answers": ["beendet", "aufgehört", "beenden", "aufhören"]
+    }
+  ]
+}
